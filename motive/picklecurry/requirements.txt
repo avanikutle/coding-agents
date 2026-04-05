@@ -1,0 +1,156 @@
+🧾 1. Core Business Concept
+Brand Name: Kutle Pickle Curries
+Company: Kutle Foods Pvt Ltd
+Product: Pickle Curries (PC)
+Hybrid of pickles + curries
+Shelf life: ~1 week
+Retains nutrients better than traditional curries
+Ready-to-eat / semi-preserved food
+🛒 2. Website Goals
+Premium, rich & sophisticated UI
+Sell products online (direct-to-consumer)
+Highlight:
+Hygiene standards
+Industrial-grade production
+Freshness & quality
+Enable:
+Product browsing
+Add-to-cart
+Checkout with UPI
+Build scalable system (start small → grow enterprise)
+📦 3. Product Catalog Structure
+📚 Catalog Requirements
+Category-based listing:
+Seasonal PCs
+Non-seasonal PCs
+Each product should have:
+Dedicated page
+Recipe story
+Ingredients
+Nutrition info
+Storage instructions
+Shelf-life details
+🥭 Sample Pickle Curries Catalog
+🍅 Tomato Pickle Curry
+Tangy + spicy
+Rich in lycopene
+Bestseller candidate
+🍋 Lemon Pickle Curry
+High Vitamin C
+Long-lasting flavor
+🌿 Gongura Pickle Curry
+Andhra specialty
+Iron-rich
+🥒 Cucumber Pickle Curry
+Cooling + digestive
+🌱 Mint Pickle Curry
+Refreshing flavor
+Good for digestion
+🥬 Okra (Bendi) Pickle Curry
+Unique texture
+Fiber-rich
+🥬 Dondakaya (Ivy Gourd) Pickle Curry
+Rare & niche product
+➕ Expandable List (Future)
+Mango (Avakaya)
+Garlic pickle curry
+Mixed vegetable PC
+Prawn pickle curry (premium segment)
+Chicken pickle curry
+⚖️ 4. Product Variants & Pricing
+
+Each product must support:
+
+100g
+500g
+1kg
+Pricing Logic Example
+100g → ₹120
+500g → ₹500 (discounted)
+1kg → ₹900 (bulk pricing)
+🛍️ 5. Shopping Cart Requirements
+Add to cart button
+Quantity selector
+Variant selector (100g / 500g / 1kg)
+Dynamic price update
+Cart summary page
+Checkout:
+Address
+Phone
+Payment via UPI (GPay / PhonePe / Paytm)
+🧪 6. Hygiene & Production Page
+
+Dedicated page showing:
+
+Industrial kitchen setup
+Use of automation / robotics
+Temperature control systems
+Food safety standards (FSSAI compliance)
+Packaging process
+Cold-chain handling
+🔐 7. Admin Portal Requirements
+Login (secure)
+Product management:
+Add / edit / delete PC
+Inventory tracking
+Order management
+Pricing updates
+Upload images & recipes
+Analytics (basic initially)
+🧠 8. Suggested Tech Stack
+🎨 Frontend (UI)
+React + Next.js (best for SEO + performance)
+Tailwind CSS (for premium look)
+Framer Motion (animations)
+
+👉 Design Style:
+
+Dark + earthy tones (food premium feel)
+High-quality product images
+Minimalist + elegant layout (like luxury brands)
+⚙️ Backend
+Option 1 (Fast MVP):
+Node.js + Express
+Option 2 (Scalable):
+NestJS (structured + enterprise ready)
+🗄️ Database
+PostgreSQL (recommended)
+Tables:
+Products
+Categories
+Orders
+Users
+Inventory
+💳 Payments
+UPI Integration via:
+Razorpay (best in India)
+Cashfree
+☁️ Hosting
+Frontend: Vercel
+Backend: AWS / Railway / Render
+DB: Supabase / AWS RDS
+📈 9. Scalability Vision
+
+Start small but design for:
+
+Multi-city delivery
+Subscription model (weekly PCs)
+Export (NRIs)
+Mobile app later
+AI-based recommendations
+💡 10. Key Differentiators (IMPORTANT)
+
+This is what will make your business win:
+
+“Fresh curry that lasts like pickle”
+Nutritional retention
+Andhra authenticity
+Industrial hygiene transparency
+Premium branding (not local achar look)
+🚀 Next Step (Recommended)
+
+We can now move to:
+
+👉 Step 1: UI wireframe (homepage + product page + cart)
+👉 Step 2: Database schema
+👉 Step 3: Starter code (Next.js + backend)
